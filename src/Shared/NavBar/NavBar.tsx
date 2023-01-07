@@ -63,7 +63,7 @@ const NavBar = (props: Props) => {
             </Link>
           </>
         )} */}
-        <Link to="/login" className="btn btn-warning">
+        <Link to="/login" className="btn btn-info">
           Login
         </Link>
       </div>
